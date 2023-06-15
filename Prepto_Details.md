@@ -1,5 +1,6 @@
  **Name:** Prepto: Personalized Education App
 
+#### **Explainer URL:** https://www.powtoon.com/ws/g7LWSWFm6PL/1/m
 ----------------------------------------------
 **Short Description:** "Prepto: Personalized Education App" is an online education app that helps students prepare for various test exams such as IIT-JEE, AIPMT etc. It provides students with Personalized  Adaptive , interactive learning , 360 degree analytics about their strength and areas of improvement and seamless collaboration with other students.
 
