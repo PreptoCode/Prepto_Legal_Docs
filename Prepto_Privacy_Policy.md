@@ -69,6 +69,6 @@ We may update this privacy policy from time to time to reflect changes in our pr
 
 ## 8. CONTACT US
 
-If you have any questions, concerns, or requests regarding this privacy policy or our privacy practices, please contact us at [contact email]. We will do our best to address your inquiries in a timely manner.
+If you have any questions, concerns, or requests regarding this privacy policy or our privacy practices, please contact us at support@prepto.com . We will do our best to address your inquiries in a timely manner.
 
 Thank you for entrusting Prepto with your educational journey.
