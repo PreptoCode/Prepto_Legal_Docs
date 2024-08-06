@@ -1,6 +1,6 @@
 # PRIVACY POLICY
 
-Effective Date: June 15, 2023
+Effective Date: June 15, 2024
 
 Thank you for choosing Fulloop ("Company", "we", "us", "our") as your online platform for competitive examination preparation. We are dedicated to protecting your privacy and safeguarding your personal information. This privacy policy outlines how we collect, use, and protect the information you provide to us. If you have any questions or concerns regarding this policy or our practices, please contact us at support@fulloop.ai.
 
