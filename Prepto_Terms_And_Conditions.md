@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-These terms and conditions ("Agreement") set forth the general terms and conditions of your use of the "Fulloop" online platform ("Platform" or "Service") and any of its related products and services (collectively, "Services"). This Agreement is legally binding between you ("User", "you" or "your") and Fulloop ("Company", "we", "us" or "our"). By accessing and using the Platform and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. If you are entering into this Agreement on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this Agreement, in which case the terms "User", "you" or "your" shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this Agreement, you must not accept this Agreement and may not access and use the Platform and Services. You acknowledge that this Agreement is a contract between you and the Company, even though it is electronic and is not physically signed by you, and it governs your use of the Platform and Services.
+These terms and conditions ("Agreement") set forth the general terms and conditions of your use of the "Prepto" online platform ("Platform" or "Service") and any of its related products and services (collectively, "Services"). This Agreement is legally binding between you ("User", "you" or "your") and Prepto ("Company", "we", "us" or "our"). By accessing and using the Platform and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. If you are entering into this Agreement on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this Agreement, in which case the terms "User", "you" or "your" shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this Agreement, you must not accept this Agreement and may not access and use the Platform and Services. You acknowledge that this Agreement is a contract between you and the Company, even though it is electronic and is not physically signed by you, and it governs your use of the Platform and Services.
 
 ## Accounts and Membership
 
@@ -58,7 +58,7 @@ You acknowledge that you have read this Agreement and agree to all its terms and
 
 If you have any questions about this Agreement, please contact us at:
 
-Email: support@fulloop.ai
+Email: support@prepto.com
 
 Address: 735 Los Padress Blvd, Santa Clara, CA - 95050
 
